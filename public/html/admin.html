@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>회원 관리</title>
+    <link rel="stylesheet" href="../css/admin.css">
+
+</head>
+
+<body>
+    <h1>회원 관리</h1>
+    <div class="button-container">
+        <button onclick="showSection('register')">회원 등록</button>
+        <button onclick="showSection('edit')">회원 수정</button>
+        <button onclick="showSection('delete')">회원 삭제</button>
+    </div>
+
+    <div id="registerSection" class="hidden">
+        <h2>회원 등록</h2>
+        <form id="registerForm">
+            <div class="form-group">
+                <label for="registerName">회원 이름</label><br>
+                <input type="text" id="registerName" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="registerPhone">회원 전화번호</label><br>
+                <input type="text" id="registerPhone" name="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="registerClass">회원 수업</label><br>
+                <input type="text" id="registerClass" name="class" required>
+            </div>
+            <div class="form-group">
+                <label for="registerClassDayOfWeek">회원 수업 요일</label><br>
+                <select id="registerClassDayOfWeek" name="classDayOfWeek" required>
+                    <option value="" selected disabled hidden>요일을 선택하세요</option>
+                    <option value="월요일">월요일</option>
+                    <option value="화요일">화요일</option>
+                    <option value="수요일">수요일</option>
+                    <option value="목요일">목요일</option>
+                    <option value="금요일">금요일</option>
+                    <option value="토요일">토요일</option>
+                    <option value="일요일">일요일</option>
+                </select>
+            </div>
+            <div class="btnForm">
+                <input type="submit" value="등록" id="addUserBtn">
+            </div>
+        </form>
+    </div>
+
+    <div id="editSection" class="hidden">
+        <h2>회원 수정</h2>
+        <form id="editForm">
+            <div class="form-group">
+                <label for="editName">회원 이름</label><br>
+                <input type="text" id="editName" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="editPhone">회원 전화번호</label><br>
+                <input type="text" id="editPhone" name="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="editClass">회원 수업</label><br>
+                <input type="text" id="editClass" name="class" required>
+            </div>
+            <div class="form-group">
+                <label for="editClassDayOfWeek">회원 수업 요일</label><br>
+                <select id="editClassDayOfWeek" name="classDayOfWeek" required>
+                    <option value="" selected disabled hidden>요일을 선택하세요</option>
+                    <option value="월요일">월요일</option>
+                    <option value="화요일">화요일</option>
+                    <option value="수요일">수요일</option>
+                    <option value="목요일">목요일</option>
+                    <option value="금요일">금요일</option>
+                    <option value="토요일">토요일</option>
+                    <option value="일요일">일요일</option>
+                </select>
+            </div>
+            <div class="btnForm">
+                <input type="submit" value="수정" id="editUserBtn">
+            </div>
+        </form>
+    </div>
+
+    <div id="deleteSection" class="hidden">
+        <h2>회원 삭제</h2>
+        <form id="deleteForm">
+            <div class="form-group">
+                <label for="deleteName">회원 이름</label><br>
+                <input type="text" id="deleteName" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="deletePhone">회원 전화번호</label><br>
+                <input type="text" id="deletePhone" name="phone" required>
+            </div>
+            <div class="btnForm">
+                <input type="submit" value="삭제" id="deleteUserBtn">
+            </div>
+        </form>
+    </div>
+
+    <form id="logout">
+        <input type="submit" value="로그아웃" id="logoutButton">
+    </form>
+    
+    <div id="userList">
+    </div>
+    <script src="../js/admin.js"></script>
+
+</body>
+
+</html>

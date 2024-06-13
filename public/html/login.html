@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>전화번호 입력</title>
+    <link rel="stylesheet" href="../css/login.css">
+</head>
+
+<body>
+    <form id="fullForm">
+        <div id="phoneNumberForm">
+            <label for="phoneNumber">전화번호</label>
+            <input type="text" id="phoneNumber" name="phoneNumber" required>
+            <input type="submit" value="전송" id="telButton">
+        </div>
+        <p></p>
+        <div id="authCodeForm">
+            <label for="authCode">인증번호</label>
+            <input type="text" id="authCode" name="authCode" required>
+            <input type="submit" value="인증" id="authButton">
+        </div>
+        <div id="verificationForm" style="display: none;">
+        </div>
+    </form>
+
+    <script src="../js/login.js"></script>
+
+</body>
+
+</html>
