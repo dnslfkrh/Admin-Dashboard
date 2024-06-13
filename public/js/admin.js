@@ -21,7 +21,7 @@ async function loadUser() {
     } catch (error) {
         console.error('오류:', error);
     }
-}
+};
 
 function renderUserList(users) {
     const userListDiv = document.getElementById('userList');
