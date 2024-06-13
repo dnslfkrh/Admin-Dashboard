@@ -1,9 +1,10 @@
 # Admin Dashboard
 관리자 권한을 가진 관리자만 접근이 가능한 관리자 페이지를 구현한 회원 관리 프로젝트입니다.
 
-### 0. 프로젝트 시연 영상
+# 프로젝트 시연 영상
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
 
+# 관리자 기능
 ### 1. 회원 등록 화면
 ![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/c26593bc-0e4e-42e5-acea-17cfe8a05e1f)
 
