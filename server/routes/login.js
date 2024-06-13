@@ -32,7 +32,7 @@ const isCookieAvailable = function (req, res, next) {
     }
 };
 
-router.get("/", adminVerify, (req, res) => {
+router.get("/", isCookieAvailable, (req, res) => {
     res.sendFile(path.join(__dirname, '..', '..', 'public', 'html', 'login.html'));
 });
 
