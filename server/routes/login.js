@@ -11,7 +11,7 @@ const codeAuth = require('../controllers/login/db/authLog');
 const jwt = require('jsonwebtoken');
 const secretKey = process.env.JWT_SECRET_KEY;
 
-const adminVerify = function (req, res, next) {
+const isCookieAvailable = function (req, res, next) {
     const token = req.cookies.token;
 
     if (token) {
