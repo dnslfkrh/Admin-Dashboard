@@ -4,16 +4,6 @@
 # Project Demonstration Video
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
 
-# Admin function
-### 1. Member Registration
-![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/c26593bc-0e4e-42e5-acea-17cfe8a05e1f)
-
-### 2. Edit Member
-![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/ea7c20b8-b1a5-4fca-9607-5efd08c23243)
-
-### 3. Delete Member
-![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/5fec69dc-d17b-42e4-b40e-de6f07bfa7b1)
-
 # Directory Tree
 ```
 portfolio-adminDashboard
@@ -62,3 +52,13 @@ portfolio-adminDashboard
       └─ user.js
 
 ```
+
+# Admin function
+### 1. Member Registration
+![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/c26593bc-0e4e-42e5-acea-17cfe8a05e1f)
+
+### 2. Edit Member
+![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/ea7c20b8-b1a5-4fca-9607-5efd08c23243)
+
+### 3. Delete Member
+![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/5fec69dc-d17b-42e4-b40e-de6f07bfa7b1)
