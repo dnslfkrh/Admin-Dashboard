@@ -1,5 +1,5 @@
 # Admin Dashboard
-관리자 권한을 가진 관리자만 접근이 가능한 관리자 페이지를 구현한 회원 관리 프로젝트입니다.
+### 2024. 01.
 
 # 프로젝트 시연 영상
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
