@@ -1,5 +1,5 @@
 # Admin Dashboard
-### 2024. 06.
+### 2024. 05. ~ 06.
 
 # Project Demonstration Video
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
