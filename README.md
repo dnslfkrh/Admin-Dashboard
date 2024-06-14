@@ -1,6 +1,6 @@
 # Admin Dashboard
 ### 2024. 05. ~ 06.
-Membership management web program
+Membership Management Web Program
 
 # Project Demonstration Video
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
