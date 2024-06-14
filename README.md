@@ -1,5 +1,5 @@
 # Admin Dashboard
-### 2024. 01.
+### 2024. 06.
 
 # 프로젝트 시연 영상
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
