@@ -8,6 +8,8 @@ HTML, CSS, JavaScript
 Node.js, express
 ### Database
 MongoDB
+### Deploy
+AWS(EC2, Route 53), Nginx
 
 # Project Demonstration Video
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
