@@ -1,6 +1,13 @@
 # Admin Dashboard
 ### 2024. 05. ~ 06.
-Membership Management Web Program
+Simple Membership Management Web Project
+
+### Frontend
+HTML, CSS, JavaScript
+### Backend
+Node.js, express
+### Database
+MongoDB
 
 # Project Demonstration Video
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
