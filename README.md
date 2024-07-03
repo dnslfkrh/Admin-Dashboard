@@ -63,7 +63,7 @@ portfolio-adminDashboard
 
 ```
 
-# Admin function
+# Admin functions
 ### 1. Member Registration
 ![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/c26593bc-0e4e-42e5-acea-17cfe8a05e1f)
 
