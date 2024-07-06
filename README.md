@@ -11,10 +11,10 @@ MongoDB
 ### Deploy
 AWS(EC2, Route 53), Nginx
 
-# Testing Video (youtube)
+## Testing Video (youtube)
 [![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
 
-# Directory Tree
+## Directory Tree
 ```
 portfolio-adminDashboard
 ├─ app.js
@@ -63,7 +63,7 @@ portfolio-adminDashboard
 
 ```
 
-# Admin functions
+## Admin functions
 ### 1. Member Registration
 ![image](https://github.com/dnslfkrh/portfolio-adminDashboard/assets/140808035/c26593bc-0e4e-42e5-acea-17cfe8a05e1f)
 
