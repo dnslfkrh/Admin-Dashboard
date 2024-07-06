@@ -12,7 +12,7 @@ MongoDB
 AWS(EC2, Route 53), Nginx
 
 ## Testing Video (youtube)
-[![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
+<!--[![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)-->
 
 ## Directory Tree
 ```
